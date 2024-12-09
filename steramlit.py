@@ -1,7 +1,7 @@
 import steramlit as st
 import pandas as pd
 # %% [markdown]
-st.title("DATASET CHRONIC KIDNEY DISEASE")
+# # DATASET CHRONIC KIDNEY DISEASE
 # ### print DATASET
 
 # %% [markdown]
